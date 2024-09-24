@@ -1,4 +1,4 @@
-//写乱了之后三个索引的删除
+//写乱了之后三个索引的删除...
 
 DELETE /order_records
 DELETE /product_catalog
